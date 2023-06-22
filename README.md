@@ -38,4 +38,4 @@ This is a VS Code extension that leverages the power of ChatGPT API to provide i
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please create an issue in the GitHub repository.
 
-
+logo:<a href="https://www.flaticon.com/free-icons/coder" title="coder icons">Coder icons created by Sophia_Devi - Flaticon</a>
